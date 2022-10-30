@@ -1,0 +1,22 @@
+2d1
+< A NEW HOPE
+4,5c3
+< It is a period of civil war.
+< Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.
+---
+> A NEW HOPE It is a period of civil war.
+7c5,6
+< During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DEATH STAR, an armored space station with enough power to destroy an entire planet.
+---
+> Rebel spaceships, striking from a hidden base, have won their first victory against the evil 
+> 	Galactic Empire.
+9c8,14
+< Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy....
+---
+> During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, 
+> 	the DEATH STAR, 
+> an armored space station with enough power to destroy an entire planet.
+> 
+> Pursued by the Empire's sinister agents, 
+> 	Princess Leia 
+> races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy....
